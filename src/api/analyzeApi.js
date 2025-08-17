@@ -1,7 +1,7 @@
 // src/api/analyzeApi.js
 import axios from 'axios';
 
-const API_URL = 'https://ecg-backend.onrender.com'; // Your FastAPI backend URL
+const API_URL = 'https://ecg-analyzer-backend-vw9a.onrender.com/'; // Your FastAPI backend URL
 
 /**
  * Uploads a file for ECG analysis.
